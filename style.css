@@ -1,0 +1,17 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.divbox {
+	align:center;
+	width:70%;
+	border: 3px;
+	padding:5px;
+	margin: 5px;
+}
+
+.p {
+	color: white;
+	font-size: 4px;
+}
